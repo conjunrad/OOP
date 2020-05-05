@@ -10,7 +10,7 @@ namespace laba2
             test.ShowText();
             test.ClearText();
             test.ShowText();
-            test.AddText("Hello world", "Ho1a", "Здраво", "Hallo");
+            test.AddText("Hello world", "Ho1a", "Ky", "Hallo");
             test.ShowText();
             test.DelString();
             test.ShowText();

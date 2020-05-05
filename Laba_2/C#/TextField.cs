@@ -1,5 +1,7 @@
-﻿using System;
+﻿using Microsoft.VisualBasic;
+using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace laba2
@@ -69,16 +71,17 @@ namespace laba2
             else {
                 int counter = 0;
                 number_of_lines -= 1;
+                number -= 1;
                 StringLine[] new_strings = new StringLine[number_of_lines];
-                while(counter+1 != number)
+                for(int i = 0; i<number; i++)
                 {
-                    new_strings[counter] = strings[counter];
-                    counter++;
+                    new_strings[counter] = strings[i];
+                    ++counter;
                 }
-                for(int i = 0; i < new_strings.Length - counter + 1; i++)
+                for (int i = number + 1; i < strings.Length; i++)
                 {
-                    new_strings[counter] = strings[counter+1];
-                    counter++;
+                    new_strings[counter] = strings[i];
+                    ++counter;
                 }
                 strings = new_strings;
             }
