@@ -1,0 +1,4 @@
+﻿  laba5.cpp
+D:\Mega\_Study\ООП\5 лаба\С++\laba5\laba5.cpp(63,27): warning C4018: '<': signed/unsigned mismatch
+D:\Mega\_Study\ООП\5 лаба\С++\laba5\laba5.cpp(77,41): warning C4018: '<': signed/unsigned mismatch
+  laba5.vcxproj -> D:\Mega\_Study\ООП\5 лаба\С++\laba5\Debug\laba5.exe

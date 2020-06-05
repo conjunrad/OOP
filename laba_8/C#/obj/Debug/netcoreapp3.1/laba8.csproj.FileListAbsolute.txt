@@ -1,0 +1,13 @@
+D:\Mega\_Study\ООП\8 лаба\laba8\bin\Debug\netcoreapp3.1\laba8.exe
+D:\Mega\_Study\ООП\8 лаба\laba8\bin\Debug\netcoreapp3.1\laba8.deps.json
+D:\Mega\_Study\ООП\8 лаба\laba8\bin\Debug\netcoreapp3.1\laba8.runtimeconfig.json
+D:\Mega\_Study\ООП\8 лаба\laba8\bin\Debug\netcoreapp3.1\laba8.runtimeconfig.dev.json
+D:\Mega\_Study\ООП\8 лаба\laba8\bin\Debug\netcoreapp3.1\laba8.dll
+D:\Mega\_Study\ООП\8 лаба\laba8\bin\Debug\netcoreapp3.1\laba8.pdb
+D:\Mega\_Study\ООП\8 лаба\laba8\obj\Debug\netcoreapp3.1\laba8.csprojAssemblyReference.cache
+D:\Mega\_Study\ООП\8 лаба\laba8\obj\Debug\netcoreapp3.1\laba8.csproj.CoreCompileInputs.cache
+D:\Mega\_Study\ООП\8 лаба\laba8\obj\Debug\netcoreapp3.1\laba8.AssemblyInfoInputs.cache
+D:\Mega\_Study\ООП\8 лаба\laba8\obj\Debug\netcoreapp3.1\laba8.AssemblyInfo.cs
+D:\Mega\_Study\ООП\8 лаба\laba8\obj\Debug\netcoreapp3.1\laba8.dll
+D:\Mega\_Study\ООП\8 лаба\laba8\obj\Debug\netcoreapp3.1\laba8.pdb
+D:\Mega\_Study\ООП\8 лаба\laba8\obj\Debug\netcoreapp3.1\laba8.genruntimeconfig.cache

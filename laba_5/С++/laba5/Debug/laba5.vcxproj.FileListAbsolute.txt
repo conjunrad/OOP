@@ -1,0 +1,2 @@
+D:\Mega\_Study\ООП\5 лаба\С++\laba5\Debug\laba5.exe
+D:\Mega\_Study\ООП\5 лаба\С++\laba5\Debug\laba5.pdb

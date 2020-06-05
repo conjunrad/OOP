@@ -1,0 +1,2 @@
+D:\Mega\_Study\ООП\7 лаба\C++\laba7\Debug\laba7.exe
+D:\Mega\_Study\ООП\7 лаба\C++\laba7\Debug\laba7.pdb

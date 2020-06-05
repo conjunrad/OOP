@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Database", "Database.csproj", "{25F483BC-A365-4738-AC18-CC23E4945EC4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Schedule", "..\Schedule\Schedule.csproj", "{DD6FADF7-B756-45D6-96BF-D1817F5A5198}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IConsole", "..\Console\IConsole.csproj", "{54EB6DB4-D627-404A-95D8-DB968BDB28FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25F483BC-A365-4738-AC18-CC23E4945EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F483BC-A365-4738-AC18-CC23E4945EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25F483BC-A365-4738-AC18-CC23E4945EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F483BC-A365-4738-AC18-CC23E4945EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6FADF7-B756-45D6-96BF-D1817F5A5198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6FADF7-B756-45D6-96BF-D1817F5A5198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6FADF7-B756-45D6-96BF-D1817F5A5198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6FADF7-B756-45D6-96BF-D1817F5A5198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54EB6DB4-D627-404A-95D8-DB968BDB28FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54EB6DB4-D627-404A-95D8-DB968BDB28FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54EB6DB4-D627-404A-95D8-DB968BDB28FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54EB6DB4-D627-404A-95D8-DB968BDB28FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EE6CD6E-629E-467F-986B-D33EF2C1877C}
+	EndGlobalSection
+EndGlobal

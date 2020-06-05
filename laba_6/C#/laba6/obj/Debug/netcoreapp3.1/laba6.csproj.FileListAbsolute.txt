@@ -1,0 +1,13 @@
+D:\Mega\_Study\ООП\6 лаба\C#\laba6\bin\Debug\netcoreapp3.1\laba6.exe
+D:\Mega\_Study\ООП\6 лаба\C#\laba6\bin\Debug\netcoreapp3.1\laba6.deps.json
+D:\Mega\_Study\ООП\6 лаба\C#\laba6\bin\Debug\netcoreapp3.1\laba6.runtimeconfig.json
+D:\Mega\_Study\ООП\6 лаба\C#\laba6\bin\Debug\netcoreapp3.1\laba6.runtimeconfig.dev.json
+D:\Mega\_Study\ООП\6 лаба\C#\laba6\bin\Debug\netcoreapp3.1\laba6.dll
+D:\Mega\_Study\ООП\6 лаба\C#\laba6\bin\Debug\netcoreapp3.1\laba6.pdb
+D:\Mega\_Study\ООП\6 лаба\C#\laba6\obj\Debug\netcoreapp3.1\laba6.csprojAssemblyReference.cache
+D:\Mega\_Study\ООП\6 лаба\C#\laba6\obj\Debug\netcoreapp3.1\laba6.csproj.CoreCompileInputs.cache
+D:\Mega\_Study\ООП\6 лаба\C#\laba6\obj\Debug\netcoreapp3.1\laba6.AssemblyInfoInputs.cache
+D:\Mega\_Study\ООП\6 лаба\C#\laba6\obj\Debug\netcoreapp3.1\laba6.AssemblyInfo.cs
+D:\Mega\_Study\ООП\6 лаба\C#\laba6\obj\Debug\netcoreapp3.1\laba6.dll
+D:\Mega\_Study\ООП\6 лаба\C#\laba6\obj\Debug\netcoreapp3.1\laba6.pdb
+D:\Mega\_Study\ООП\6 лаба\C#\laba6\obj\Debug\netcoreapp3.1\laba6.genruntimeconfig.cache
